@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Roboto+Mono:ital@1&display=swap');
+.footer {
+  background-color: #191919;
+  margin-top: 25px;
+  padding: 40px 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.footer label {
+  color: aliceblue;
+  font-size: 35px;
+  font-weight: 800;
+  font-family: 'Anton', sans-serif;
+}
+.footer span {
+  color: '#c6c9d8';
+  font-size: 20px;
+  opacity: 0.8;
+}
